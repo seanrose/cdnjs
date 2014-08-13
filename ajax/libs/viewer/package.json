@@ -1,5 +1,5 @@
 {
-  "name": "viewer.js",
+  "name": "viewer",
   "version": "0.6.0",
   "filename": "crocodoc.viewer.min.js",
   "description": "A viewer for documents converted with the Box View API",
