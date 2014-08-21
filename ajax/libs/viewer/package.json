@@ -55,5 +55,14 @@
     "qunit-parameterize": "^0.4.0",
     "event-source-polyfill": "0.0.1",
     "grunt-parallel": "^0.3.1"
+  },
+  "autoupdate": {
+    "source": "git",
+    "target": "https://github.com/box/viewer.js.git",
+    "basePath": "/dist/",
+    "files": [
+      "crocodoc.viewer.min.css"
+      "crocodoc.viewer.min.js"
+    ]
   }
 }
